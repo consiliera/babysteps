@@ -12,10 +12,15 @@ Here could be an overview of everything that my software/code:
 - and a roadmap perhaps
 
 ## Documentation
-Here I would like to see [links](https://wikipedia.de) to
+Here I would like to see [links](https://wikipedia.de) to :point_right:
 - all further documentation
 - teams (if any)
 - Wiki
 
+## Connect
+And last but not least: Here comes a list of social media channels and communities elsewhere. :sunny: Add an image or Emoji here and there :+1:
+- [Project XY on Telegram](https://t.me)
+- [Follow us on Twitter](https://twitter.com)
+- Meet the project team and founders on [Discord](https://discordapp.com/)
 
 
