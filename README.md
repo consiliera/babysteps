@@ -23,4 +23,5 @@ And last but not least: Here comes a list of social media channels and communiti
 - [Follow us on Twitter](https://twitter.com)
 - Meet the project team and founders on [Discord](https://discordapp.com/)
 
-
+## License
+I would probably always include a license file in every repository. Then everybody knows exactly what they can and can not do with your code. And I'd use GitHub standard templates to create one (then link to it from here): [How to add a License to your repo](https://help.github.com/articles/adding-a-license-to-a-repository/)
