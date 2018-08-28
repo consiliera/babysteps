@@ -1,4 +1,4 @@
-# babysteps
+# example repo
 Here should be a description with an introduction to the nature of this repo, an overview of what it contains and structured information about further documentation, codes of conduct, etc.
 
 ## Introduction
